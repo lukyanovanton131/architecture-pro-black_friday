@@ -1,1 +1,1 @@
-Зайдите в каталог sharding-repl-cache и следуйте указаниям в файле README.md внутри каталога
+Зайдите в каталог sharding-repl-cache и выполните скрипт init.sh
